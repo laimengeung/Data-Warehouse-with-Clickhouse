@@ -1,0 +1,1 @@
+ClickHouse is a **column-oriented** database management system (DBMS) designed specifically for Online Analytical Processing (OLAP).
